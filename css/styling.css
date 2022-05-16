@@ -1,0 +1,82 @@
+body {
+	background-color: white;
+}
+@font-face {
+	src: url(fonts/GamePlayed-vYL7.ttf);
+	font-family: gameplayed;
+}
+@font-face {
+	src: url(fonts/barcade.otf);
+	font-family: barcade;
+}
+@font-face {
+	src: url(fonts/ChargeVectorBold-mLyD9.ttf);
+	font-family: chargevector;
+}
+.navbar1 a{
+	color: #5d5c5c;
+	text-decoration: none;
+	font-family: 'Press Start 2P', cursive;
+}
+.navbar1 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 18px;
+	text-align: center;
+	color: #5d5c5c;
+}
+#product {
+	margin-bottom: 50px;
+}
+#accessory {
+	margin-bottom: 50px;
+}
+#banner {
+	font-family: chargevector;
+	color: #5d5c5c;
+	font-size: 35px;
+}
+h1 {
+	font-size: 30px; 
+	font-family: gameplayed;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	color: #5ce1e6;
+}
+h3 {
+	font-family: barcade;
+	margin: 10px;
+	color: #5d5c5c;
+}
+#ghost {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#partner {
+	margin-bottom: 40px;
+	margin-top: 40px; 
+}
+#benefits {
+	font-family: gameplayed;
+	color: #5d5c5c;
+}
+footer {
+	font-size: 15px;
+	text-align: center;
+	color: #5d5c5c;
+}
+
+iframe {
+	margin-bottom: 100px;
+}
+
+label {
+	font-family: gameplayed;
+	color: #5d5c5c;
+}
+p {
+	font-family: chargevector;
+}
+.col-sm-4 {
+	text-align: center;
+}
