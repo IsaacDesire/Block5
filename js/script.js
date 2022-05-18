@@ -21,5 +21,8 @@ function validateForm() {
 	else if (message == null || message == "") {
 		alert("Message can't be blank");
 		return false;
-	}	
+	}
+	else {
+		alert("Your message has been sent");
+	}
 }
